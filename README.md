@@ -1,0 +1,1 @@
+Interactive Power BI dashboard analyzing Myntra-style e-commerce sales and product data, highlighting category performance, brand trends, customer demographics, discounts, and regional sales insights.
